@@ -5,8 +5,12 @@ Using the ML 100k data set and cosine similarity, we can use this Julia script t
 #Set-Up
 
 -Ensure Julia installed & setup
+
 -Clone repository
--Ensure data files are in /data folder for proper parsing 
+
+-Ensure data files are in /data folder for proper parsing
 //To change target user, manually change to userID number in main.jl to observe their particular reccomended movies
+
 -Run main.jl
+
 -Enjoy your reccomendations 
